@@ -174,7 +174,7 @@ This application demonstrates Client Side Validation using Regular Expressions i
 
 
 🖥 Error Message Display
-<img width="1920" height="1020" alt="Screenshot 2026-02-23 153306" src="https://github.com/user-attachments/assets/f9306a3e-e55e-4278-8bfb-08c4b137f26b" />
+<img width="1920" height="1020" alt="image" src="https://github.com/user-attachments/assets/6199698d-62ec-4200-b297-76a402af2985" />
 
 
 📧 Email Validation Rules
